@@ -26,6 +26,8 @@ We're no strangers to love<br>You know the rules and so do I
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) Actually decent but like......nvm just copium and emotional attachment
 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) Useful (especially on Windows) if dont bother with GUI (unless on Windows)...now you see the problem. not really "Cross Platform" now is it...
+
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SillyLily1313&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SillyLily1313&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
