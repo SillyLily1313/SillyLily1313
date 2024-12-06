@@ -22,6 +22,8 @@ We're no strangers to love<br>You know the rules and so do I
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) Can make pretty decent servers and very light vm.
 
+## Just Because Meta
+
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) Bang head against wall fighting borrow checker till it works...but its stable and safe when it does.
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) Please save me from being hostage...at least it has fake types so can copium.
