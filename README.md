@@ -16,7 +16,7 @@ We're no strangers to love<br>You know the rules and so do I
 
 ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white) C replacement with better tooling also when nim project gets fingerprinted compile again with zig for round 2.
 
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) Embeds in everything just annoyingly starts at 1 and only tables to use.
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) Embeds in everything and you can use MoonScript to make it better.
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) Can see this replacing javascript and also has flutter.
 
