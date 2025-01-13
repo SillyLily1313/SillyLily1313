@@ -2,6 +2,12 @@
 We're no strangers to love<br>You know the rules and so do I
 
 # 💻 Tech Stack:
+
+## Editors
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge) https://www.cursor.com/
+
+![Obsidian](https://img.shields.io/badge/Obsidian-000000?style=for-the-badge) https://obsidian.md/download
+
 ## The Only Language You Need To Write
 ![LilyLang](https://img.shields.io/badge/LilyLang-725D85?style=for-the-badge) https://github.com/SillyLily1313/lilylang
 
