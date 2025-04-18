@@ -4,7 +4,7 @@ We're no strangers to love<br>You know the rules and so do I
 # 💻 Tech Stack:
 
 ## Editors
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge) https://www.cursor.com/
+![Windsurf](https://img.shields.io/badge/Windsurf-000000?style=for-the-badge) https://windsurf.com/editor
 
 ![Obsidian](https://img.shields.io/badge/Obsidian-000000?style=for-the-badge) https://obsidian.md/download
 
